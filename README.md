@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![snake gif](https://github.com/AhmetBalikcioglu/AhmetBalikcioglu/blob/output/github-contribution-grid-snake.gif)
 
 <!--
